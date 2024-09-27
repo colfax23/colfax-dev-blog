@@ -1,7 +1,7 @@
 ---
 title: "TEEs are like toasters"
 date: 2024-09-27
-published: false
+published: true
 ---
 
 I’ve been experimenting with Trusted Execution Environments (TEEs) recently and I’ve been getting the question “what is a TEE?” a lot. My objective of this post is to help you understand the basics of what a TEE is and how it can be useful.
