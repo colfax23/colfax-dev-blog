@@ -10,6 +10,9 @@ _Note: in this context, when I refer to a TEE I’m referring specifically to AW
 
 An analogy I’ve found useful when explaining TEEs is: a toaster.
 
+![My Toaster](/images/mytoaster.jpg)
+*My toaster.*
+
 A toaster is a simple kitchen device that is very good at one job — toasting bread. Toasters are designed and built in such a way that there’s a high likelihood that it’ll toast your bread correctly and there’s a low likelihood that an undesirable outcome will happen (e.g. holes get poked in it, it disappears). Using a grill to toast bread is a different story — grills have a much larger feature set than toasters and thus can be used to accomplish many different things, however the likelihood of getting your desired outcome every time when toasting bread on a grill is much lower.
 
 Toasters are designed intentionally with a few key characteristics in order to make this happen:
