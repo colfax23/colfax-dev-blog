@@ -1,6 +1,6 @@
 ---
 title: "TEEs are like toasters"
-date: 2024-09-30
+date: 2024-10-03
 published: true
 ---
 
