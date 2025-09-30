@@ -1,4 +1,7 @@
 theme: minima
 title: colfax.dev
 author: Colfax Selby
-description: A simple blog to share technical learnings, problems I've solved, and other things I care about.
+description: A place where I share technical learnings, problems I've solved, and other things I care about.
+atom_feed:
+  hide: true
+google_analytics: G-SQ0G15R6C5

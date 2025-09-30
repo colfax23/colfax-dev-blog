@@ -1,4 +1,4 @@
 ---
-title: colfax.dev
+title: Colfax's blog
 ---
 
